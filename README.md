@@ -1,6 +1,6 @@
 # kodakku
 
- **kodakku** is a showdown-style casting platform built on the permaweb. Permahacks 2023 hackathon entry. 
+**kodakku** is a showdown-style casting platform built on the permaweb. Permahacks 2023 hackathon entry.
 
 ---
 
